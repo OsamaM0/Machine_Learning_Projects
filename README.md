@@ -10,6 +10,6 @@
 
 |Optimization      Link        Data set
 |--------------|-------------| ------------ | 
-| ANN          |[ANN Code](https://github.com/OsamaM0/Machine_Learning_Projects/blob/Optimization-Projects-(Soft-Computing)/ANN_Stroke.ipynb)  | [Stroke](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
+| ANN          |[ANN Code](https://github.com/OsamaM0/Machine_Learning_Projects/blob/Optimization-Projects-(Soft-Computing)/ANN_Stroke.ipynb)  | [Stroke](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)|
 
 
