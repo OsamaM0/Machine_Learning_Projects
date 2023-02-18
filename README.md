@@ -1,8 +1,4 @@
 # Machine_Learning_Projects
-My Machine Learning Projects 
-
-
-# Machine_Learning_Projects
 ## This repo is created for My machine learning project
 
 
