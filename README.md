@@ -1,2 +1,21 @@
 # Machine_Learning_Projects
 My Machine Learning Projects 
+
+
+# Machine_Learning_Projects
+## This repo is created for My machine learning project
+
+
+
+
+
+
+# Soft computing Projects 
+
+|       Optimization             |    Link     |    Data set   |
+|:-----                          |  :----:     |      -----:   | 
+| `Artificial Neural Network`    |[ANN Code](https://github.com/OsamaM0/Machine_Learning_Projects/blob/Optimization-Projects-(Soft-Computing)/ANN_Stroke.ipynb)  |[Stroke](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)|
+|                                |             |               |  
+| `Genetic Algorithm  `          |[GA Code](https://github.com/OsamaM0/Machine_Learning_Projects/blob/Optimization-Projects-(Soft-Computing)/Genetic_Algorithm_Stroke_Prediction.ipynb)  |[Stroke](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)|
+|                                |             |               | 
+| `Fuzzy Logic  `                |[FUZZY Code](https://github.com/OsamaM0/Machine_Learning_Projects/blob/Optimization-Projects-(Soft-Computing)/Fuzzy_Logic_Stroke.ipynb)  |[Stroke](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)|
